@@ -1,1 +1,16 @@
+
 Tout sur l'utilisation de Kiwix ici
+
+Kiwix est un lecteur pour contenus web fonctionnant hors-ligne,
+supportant le format ZIM. Un contenu ZIM est un fichier compressé contenant un
+groupement de contenus. Majoritairement, les contenus ZIM sont des sites web qui
+sont proposés au format ZIM pour être consultés sans connexion Internet.
+Le projet Kiwix met à disposition de nombreux contenus ZIM tels que :
+ Wikipedia en français ;
+ Wikipedia dans d'autres langues ;
+ WikiLeaks ;
+ Documentation Ubuntu francophone; etc...
+
+Il a été en particulier conçu pour rendre Wikipédia accessible sans
+
+Internet. Kiwix est un logiciel libre, sous licence GNU version 3.

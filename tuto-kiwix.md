@@ -58,10 +58,7 @@ Une fois télécharger, votre Kiwix sur play store, lancer l’application :
         ◦ Cliquer sur Installer
 
         ◦ Installation en cours, patientez
-
-
         ◦ Installation terminer, cliquer sur ouvrir
-
         ◦ Et voici votre application qui se lance, ça reste qu’à charger le Zim.
 
     III. Sur GNU/Linux  
@@ -112,20 +109,14 @@ Aucune installer n’est recommander, Une fois télécharger votre Kiwix, double
 Pour l’explorer :
 
         * Cliquer sur Menu ;
-        
         * Sélectionner le menu Fichier ;
-        
         * Puis Ouvrir un fichier ;
-        
        image2
-       
         * Choisissez votre fichier à lire ;
-        
         * Validé sur Ouvrir ;
-        
         * C'est fini, le fichier se charge et sa page d'accueil s'affiche. 
         
-        Kiwix proposera alors d'indexer le contenu du fichier pour activer la recherche plein-texte. 
+    Kiwix proposera alors d'indexer le contenu du fichier pour activer la recherche plein-texte. 
 Pour notre illustration, nous avons télécharger le fichier de tous les sujets de médecines dans Wikipédia.
 
 

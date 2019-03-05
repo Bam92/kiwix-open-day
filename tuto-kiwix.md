@@ -110,13 +110,21 @@ Après extraction de l'archive, vous obtenez un dossier Kiwix, qui contient dire
 Aucune installer n’est recommander, Une fois télécharger votre Kiwix, double cliquer sur l’exécutable de l’application et cette dernière va se lancer. Voici en image :
         image1
 Pour l’explorer :
+
         * Cliquer sur Menu ;
+        
         * Sélectionner le menu Fichier ;
+        
         * Puis Ouvrir un fichier ;
+        
        image2
+       
         * Choisissez votre fichier à lire ;
+        
         * Validé sur Ouvrir ;
+        
         * C'est fini, le fichier se charge et sa page d'accueil s'affiche. 
+        
         Kiwix proposera alors d'indexer le contenu du fichier pour activer la recherche plein-texte. 
 Pour notre illustration, nous avons télécharger le fichier de tous les sujets de médecines dans Wikipédia.
 

@@ -91,12 +91,15 @@ C’est le mode recommandé. Une fois le fichier library.xml prêt et identifié
 
 
 A. Kiwix Desktop
+
+
     I. Présentation de Kiwix
 Kiwix est un lecteur pour contenus web fonctionnant hors-ligne. Il permet de consulter des sites sans connexion Internet. Il est un logiciel libre, sous licence GNU version 3.
 Il a été en particulier conçu pour rendre Wikipédia accessible sans Internet. 
 Kiwix est principalement installé dans les écoles, universités, bibliothèques, institutions et prisons, n'ayant pas accès à Internet. 
 Il est très simple d'emploi et possède une gamme complète de fonctionnalités : 
     • Multiplate-forme (fonctionne avec Linux, Windows, OSX ou Android), etc.
+    
     
     II. Se procurer Kiwix
 Allez sur le site de l'éditeur : download.kiwix.org/bin/, puis téléchargez l'archive correspondant à votre architecture (32 ou 64 bits), ainsi que à votre plateforme.

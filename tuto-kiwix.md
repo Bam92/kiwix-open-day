@@ -123,16 +123,15 @@ Pour notre illustration, nous avons télécharger le fichier de tous les sujets 
         b. Installer Kiwix sur Android    
 Une fois télécharger Kiwix sur play store, lancer l’application :
 
-
         * Cliquer sur Installer
                      image3
         * Installation en cours, patientez
                      image4
         * Installation terminer, cliquer sur ouvrir
                      image5
-        * Et voici votre application qui se lance, ça reste qu’à charger les contenus.
+ Et voici votre application qui se lance, ça reste qu’à charger les contenus.
                      image6
-                     
+               
         c. Installer Kiwix sur GNU/Linux  
 Kiwix pour GNU/Linux est une application prévue pour les architectures x86 : 
     • 32 bits

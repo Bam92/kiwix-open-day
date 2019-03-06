@@ -1,13 +1,11 @@
-
-Tout sur l'utilisation de Kiwix ici
-
-    A. Kiwix
+#Guide d'utilisation de Kiwix
+A. Kiwix
 Kiwix est un lecteur pour contenus web fonctionnant hors-ligne, supportant le format ZIM. Un contenu ZIM est un fichier compressé contenant un groupement de contenus. Majoritairement, les contenus ZIM sont des sites web qui sont proposés au format ZIM pour être consultés sans connexion Internet. 
 Le projet Kiwix met à disposition de nombreux contenus ZIM tels que : 
-    • Wikipedia en français ;
-    • Wikipedia dans d'autres langues ;
-    • WikiLeaks ;
-    • Documentation Ubuntu francophone; etc…
+* Wikipedia en français ;
+* Wikipedia dans d'autres langues ;
+* WikiLeaks ;
+* Documentation Ubuntu francophone; etc…
 Il a été en particulier conçu pour rendre Wikipédia accessible sans Internet. Kiwix est un logiciel libre, sous licence GNU version 3. 
 Kiwix est principalement installé dans les écoles, universités, bibliothèques, institutions et prisons, n'ayant pas accès à Internet. 
 Il est très simple d'emploi et possède une gamme complète de fonctionnalités : 
@@ -19,7 +17,7 @@ Il est très simple d'emploi et possède une gamme complète de fonctionnalités
     • Navigation avec Onglets ;
     • Gestionnaire intégré de contenus ;
     • Multiplate-forme (fonctionne aussi avec Windows, OSX ou Android).
-Installation
+## Installation
 1. Se procurer Kiwix
 Bas du formulaire
 Haut du formulaire
@@ -42,26 +40,19 @@ Lorsque votre contenu .Zim (Wikipédia, Ubuntu, etc.) est intégralement chargé
         ◦ Cliquer sur Menu ;
         ◦ Sélectionner le menu Fichier ;
         ◦ Puis Ouvrir un fichier ;
-
-
         ◦ Choisissez votre fichier .Zim à lire ;
         ◦ Validé sur Ouvrir ;
         ◦ C'est fini, le fichier se charge et sa page d'accueil s'affiche. Kiwix proposera alors d'indexer le contenu du fichier ZIM pour activer la recherche plein-texte. 
 Pour illustrer nous avons télécharger le Zim de tous les sujets de médecines dans Wikipédia.
 
-
-
-
-
-    II. Sur Android    
-Une fois télécharger, votre Kiwix sur play store, lancer l’application :
+II. Sur Android    
+Une fois téléchargé votre Kiwix sur play store, lancer l’application :
         ◦ Cliquer sur Installer
-
         ◦ Installation en cours, patientez
         ◦ Installation terminer, cliquer sur ouvrir
         ◦ Et voici votre application qui se lance, ça reste qu’à charger le Zim.
 
-    III. Sur GNU/Linux  
+III. Sur GNU/Linux  
 Kiwix pour GNU/Linux est une application prévue pour les architectures x86 : 
     • 32 bits
     • 64 bits (téléchargez cette version si vous ne connaissez pas votre architecture)
@@ -85,10 +76,7 @@ Ce mode est le plus simple à lancer si l’on dispose d’un seul fichier ZIM e
     2. Servir un ou plusieurs fichiers ZIM (mode bibliothèque).
 C’est le mode recommandé. Une fois le fichier library.xml prêt et identifié (il est disponible dans le dossier data/library de la clef).
 
-
-
 A. Kiwix Desktop
-
 
     I. Présentation de Kiwix
 Kiwix est un lecteur pour contenus web fonctionnant hors-ligne. Il permet de consulter des sites sans connexion Internet. Il est un logiciel libre, sous licence GNU version 3.
@@ -97,11 +85,9 @@ Kiwix est principalement installé dans les écoles, universités, bibliothèque
 Il est très simple d'emploi et possède une gamme complète de fonctionnalités : 
     * Multiplate-forme (fonctionne avec Linux, Windows, OSX ou Android), etc.
     
-    
     II. Se procurer Kiwix
 Allez sur le site de l'éditeur : download.kiwix.org/bin/, puis téléchargez l'archive correspondant à votre architecture (32 ou 64 bits), ainsi que à votre plateforme.
 Après extraction de l'archive, vous obtenez un dossier Kiwix, qui contient directement l’exécutable Kiwix. Avec la nouvelle version, Kiwix 2.0 est portable c’est-à-dire aucune installation ni compilation n'est nécessaire. On peut le lancer via n’importe qu’elle support de stockage : Clé USB, Carte SD, HDD interne qu’externe, etc…
-
 
         a. Installer Kiwix sur Windows  
 Aucune installer n’est recommander, Une fois télécharger votre Kiwix, double cliquer sur l’exécutable de l’application et cette dernière va se lancer. Voici en image :
@@ -118,7 +104,6 @@ Pour l’explorer :
         
     Kiwix proposera alors d'indexer le contenu du fichier pour activer la recherche plein-texte. 
 Pour notre illustration, nous avons télécharger le fichier de tous les sujets de médecines dans Wikipédia.
-
 
         b. Installer Kiwix sur Android    
 Une fois télécharger Kiwix sur play store, lancer l’application :
@@ -140,5 +125,3 @@ Kiwix pour GNU/Linux est une application prévue pour les architectures x86 :
         * Décompressez le fichier téléchargé et 
         * Exécutez le programme "kiwix". 
         * Si vous avez un système 64 bits x86 et que vous essayez d'exécuter la version 32 bits de Kiwix, vérifiez que le support de la multi-architecture est installé sur votre ordinateur. 
-
-

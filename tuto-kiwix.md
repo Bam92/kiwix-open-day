@@ -1,5 +1,5 @@
-#Guide d'utilisation de Kiwix
-A. Kiwix
+# Guide d'utilisation de Kiwix
+## A propos de l'application
 Kiwix est un lecteur pour contenus web fonctionnant hors-ligne, supportant le format ZIM. Un contenu ZIM est un fichier compressé contenant un groupement de contenus. Majoritairement, les contenus ZIM sont des sites web qui sont proposés au format ZIM pour être consultés sans connexion Internet. 
 Le projet Kiwix met à disposition de nombreux contenus ZIM tels que : 
 * Wikipedia en français ;
@@ -28,7 +28,7 @@ Après extraction de l'archive, vous obtenez un dossier Kiwix, qui contient dire
 Une fois télécharger, double cliquer sur l’exécutable de l’application et cette dernière va se lancer. Voici en image :
 
 Bas du formulaire
-Utilisation
+## Utilisation
 1. Exploiter le contenu
 Bas du formulaire
 Télécharger les fichiers en format .ZIM de votre choix.
@@ -120,8 +120,7 @@ Une fois télécharger Kiwix sur play store, lancer l’application :
         c. Installer Kiwix sur GNU/Linux  
 Kiwix pour GNU/Linux est une application prévue pour les architectures x86 : 
     • 32 bits
-    • 64 bits (téléchargez cette version si vous ne connaissez pas votre architecture)
-    
+    • 64 bits (téléchargez cette version si vous ne connaissez pas votre architecture) 
         * Décompressez le fichier téléchargé et 
         * Exécutez le programme "kiwix". 
         * Si vous avez un système 64 bits x86 et que vous essayez d'exécuter la version 32 bits de Kiwix, vérifiez que le support de la multi-architecture est installé sur votre ordinateur. 

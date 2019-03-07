@@ -1,10 +1,10 @@
 Note: ceci est une traduction française et adaptation de "What Is Open Source" par WordPress*
 
-# C'est quoi le vocable "Open Source" (source ouverte)?
+# Qu'est-ce que ce "Open Source" (source ouverte)?
 
 ## Description
 
-tex goes here
+Dans cette leçon, vous apprendrez le sens du terme *Open Source* en parlant de logiciel, de la licence logicielle GPL, de la raison pour laquelle Kiwix est un projet open source et de son importance pour les utilisateurs et les contributeurs de Kiwix.
 
 ## Prérequis
 
@@ -20,7 +20,11 @@ A la fin de cette leçon, l'étudiant sera capable de :
 
 ## Question de présélection
 
-* tex goes here
+* Utilisez-vous un logiciel pour un travail personnel ou professionnel ?
+* Comprenez-vous que les logiciels sont concédés sous licence ?
+* Souhaitez-vous en savoir plus sur le projet Kiwix ?
 
 ## Hands-on Walk-through
+### Quelle est la définition de l'open source ?
+Un logiciel open source est un logiciel dont le **code source** est disponible pour que tout le monde puisse le voir, le modifier et l'améliorer. On appelle code source l'ensembles des instructions informatiques écrites par les développeurs de logiciels dans un langage de programmation afin de manipuler le fonctionnement du logiciel. La plupart des logiciels dit propriétaires sont distribués sous la forme de fichiers exécutables, où le code source a été compilé de telle sorte qu'il soit crypté pour une utilisation sur ordinateur, sans que le code source ne soit disponible. Si le code source était disponible sans compilation ni chiffrement, il serait alors possible d'étudier et de modifier le programme - c'est ce que le logiciel open source fournit : la capacité de lire et de modifier le code derrière le logiciel.
 

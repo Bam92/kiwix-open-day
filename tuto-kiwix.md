@@ -19,18 +19,14 @@ Il est très simple d'emploi et possède une gamme complète de fonctionnalités
     • Multiplate-forme (fonctionne aussi avec Windows, OSX ou Android).
 ## Installation
 1. Se procurer Kiwix
-Bas du formulaire
-Haut du formulaire
 Le rôle principal de Kiwix est de consulter des contenus au format .ZIM (Wikipédia, documentation Ubuntu, etc…), pour y parvenir vous allez déjà devoir vous en fournir. 
 Allez sur le site de l'éditeur : http://www.kiwix.org, puis téléchargez l'archive correspondant à votre architecture (32 ou 64 bits), ainsi que à votre plateforme.
 Après extraction de l'archive, vous obtenez un dossier Kiwix, qui contient directement l’exécutable Kiwix. Avec la nouvelle version, Kiwix 2.0 est portable c’est-à-dire aucune installation ni compilation n'est nécessaire. On peut le lancer via n’importe qu’elle support de stockage : Clé USB, Carte SD, HDD interne qu’externe, etc…
     I. Sur Windows  
 Une fois télécharger, double cliquer sur l’exécutable de l’application et cette dernière va se lancer. Voici en image :
 
-Bas du formulaire
 ## Utilisation
 1. Exploiter le contenu
-Bas du formulaire
 Télécharger les fichiers en format .ZIM de votre choix.
 Exemple :
     • L'encyclopédie Wikipédia en français qui est disponible sur le site officiel du projet Kiwix ;

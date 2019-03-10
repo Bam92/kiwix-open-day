@@ -49,3 +49,5 @@ Kiwix pour GNU/Linux est une application prévue pour les architectures x86 :
 * Si vous avez un système 64 bits x86 et que vous essayez d'exécuter la version 32 bits de Kiwix, vérifiez que le support de la multi-architecture est installé sur votre ordinateur. 
 
 ## Utilisation
+![Kiwix sur un ordinateur Debian GNU/Linux](/images/kiwix2-sur-debian-gnu-linux.png
+)

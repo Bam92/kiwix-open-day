@@ -51,3 +51,12 @@ Kiwix pour GNU/Linux est une application prévue pour les architectures x86 :
 ## Utilisation
 ![Kiwix sur un ordinateur Debian GNU/Linux](/images/kiwix2-sur-debian-gnu-linux.png
 )*Kiwix sur un ordinateur Debian GNU/Linux*
+
+la version actuelle de kiwix est portable, ce qui offre une possibilité de l'utiliser sans pour tant l'installer. De ce dait, il suffit de l'avoir pour pouvoir l'utiliser et profiter de ses fonctionnalités. On peut l'utiliser sous plusieurs supports médias : CDroom, Flash disk Usb, carte mémoire, etc.
+La version beta rend le logiciel portable, ce qui sous-entend que nous pouvons l'utiliser ou l'exécuter sur n'importe quelle machine sans obligatoirement avoir besoin de l'installer.
+
+# Sur le Cd room.
+sur le support disque CD, il suffira de graver le setup(version beta) du logiciel kiwix et avoir un répertoire (pas obligatoirement) contenant les pages des contenus internet qui seront lus en hors-ligne (souvent au format .zim) gravé également sur le CD room.
+
+# Sur le flash disk Usb ou carte mémoire.
+Sur ces deux supports, la procédure est presque la même. Etant des périphériques de stockage, le logiciel et le répertoire de fichiers au format .zim sont stockés sur ces derniers et ça donne une possibilité à l'utiliser d'accès à ses pages web une fois le logiciel lancé.

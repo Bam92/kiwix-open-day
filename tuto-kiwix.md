@@ -50,4 +50,4 @@ Kiwix pour GNU/Linux est une application prévue pour les architectures x86 :
 
 ## Utilisation
 ![Kiwix sur un ordinateur Debian GNU/Linux](/images/kiwix2-sur-debian-gnu-linux.png
-)
+)*Kiwix sur un ordinateur Debian GNU/Linux*

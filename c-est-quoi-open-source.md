@@ -18,7 +18,7 @@ A la fin de cette leçon, l'étudiant sera capable de :
 * Expliquez les avantages des logiciels open source pour les utilisateurs de Kiwix.
 * Identifiez les moyens par lesquels les individus et les organisations peuvent contribuer au projet Kiwix.
 
-## Question de présélection
+## Question de préparation
 
 * Utilisez-vous un logiciel pour un travail personnel ou professionnel ?
 * Comprenez-vous que les logiciels sont concédés sous licence ?
@@ -61,3 +61,7 @@ En tant qu'utilisateur final, développeur ou directeur commercial, pourquoi dev
 * Les projets logiciels abandonnés peuvent être adoptés par de nouvelles équipes de développement.
 * Les standards ouverts sont généralement utilisés, plutôt que des standards propriétaires.
 * Les bogues et les problèmes de sécurité peuvent être rapidement résolus avec des correctifs logiciels.
+
+### Qu'est-ce que la GPL ?
+La GPL est l'abréviation de (GNU) General Public License ((GNU) Licence Publique Générale). Il est parfois appelé une licence copyleft, contrairement au copyright, car elle inverse les termes du copyright sur le logiciel. Plutôt que de restreindre la distribution, le copyright GPL est utilisé pour spécifier la propriété du code source et les termes selon lesquels il peut être partagé. La GPL a été créée par Richard Stallman en 1989 et est la licence fondatrice des logiciels open source. Son but est de protéger quatre libertés fondamentales qui sont considérées comme les fondements du logiciel libre. Ainsi, si une œuvre dérivée d'un logiciel sous licence GPL est redistribuée sous sa forme originale ou modifiée, elle doit être sous licence GPL, sinon la licence d'utilisation du programme source prendra fin et les conditions d'utilisation seront violées. Cela permet de rattacher un projet de logiciel libre à un nouveau projet, à condition que le nouveau projet soit sous la même licence. Il y a eu trois versions de la licence GPL au fil du temps. Kiwix est distribué sous GPLv3.
+
